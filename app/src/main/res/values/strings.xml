@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="question1">4 x 5</string>
+    <string name="question2">3 / 1</string>
+    <string name="question3">4 + 1</string>
+    <string name="question4">6 - 2</string>
+    <string name="answer_question_1a">20</string>
+    <string name="answer_question_1b">9</string>
+    <string name="answer_question_1c">5</string>
+    <string name="answer_question_2a">1</string>
+    <string name="answer_question_2b">3</string>
+    <string name="answer_question_2c">4</string>
+    <string name="answer_question_3a">5</string>
+    <string name="answer_question_3b">4</string>
+    <string name="answer_question_3c">3</string>
+    <string name="answer_question_4a">2</string>
+    <string name="answer_question_4b">10</string>
+    <string name="answer_question_4c">4</string>
+</resources>
